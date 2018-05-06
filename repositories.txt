@@ -1,6 +1,0 @@
-http://cydia.iphonecake.com/
-http://beta.unlimapps.com/
-http://apt.thebigboss.org/repofiles/cydia/
-http://apt.saurik.com/
-http://cydia.f0u4d.com/
-hhttp://cydia.angelxwind.net/
